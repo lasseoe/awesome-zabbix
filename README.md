@@ -28,7 +28,8 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
   - [Visualization](#visualization)
     - [External](#external-visualization)
     - [Maps](#maps)
-    - [Modules and Widgets](#modules-and-wigets)
+    - [Modules](#modules)
+    - [Widgets](#widgets)
   - [Zabbix Protocols](#zabbix-protocols)
 
 **[⬆ back to top](#contents)**
@@ -134,12 +135,19 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
 
 - [zabbix-map-builder-go](https://github.com/Spartan0nix/zabbix-map-builder-go) - CLI tool to help administrators build Zabbix maps using host mappings (network devices, etc.).
 
-### Modules and Wigets
+### Modules
 
 - [zabbix-module-hosts-tree](https://github.com/BGmot/zabbix-module-hosts-tree) - Module to show groups/hosts as a tree under Monitoring -> Hosts Tree menu item in Zabbix.
 - [zabbix-module-latest-data](https://github.com/BGmot/zabbix-module-latest-data) - Module to group items under Monitoring -> Latest data per Tag like Application grouping in previous versions of Zabbix.
 - [zabbix-module-avail-report](https://github.com/BGmot/zabbix-module-avail-report) - Module to add new features to Availability Report.
 - [zabbix-module-menu](https://github.com/BGmot/zabbix-module-menu) - Module to prevent automatic main menu items collapsing effectively to allow you to keep several main menu sections expanded.
+- [zabbix-module-sqlexplorer](https://github.com/gr8b/zabbix-module-sqlexplorer) - Module to make queries to the Zabbix database and export result as a CSV file. Queries can be saved and reused later.
+- [zabbix-module-xgeomap](https://github.com/gr8b/zabbix-module-xgeomap) - Module extends geo map widget with ability to show problem data.
+
+### Widgets
+
+- [zabbix-dashboard-gauge](https://github.com/CJVisser/Zabbix-Dashboard-Gauge) - Add a Gauge Widget to your Zabbix Dashboards.
+- [zabbix-widget-html](https://github.com/shrank/zabbix-widget-html) - Simple Widget that lets you put arbitrary HTML code on a Zabbix Dashboard.
 
 **[⬆ back to top](#contents)**
 
