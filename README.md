@@ -17,6 +17,7 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
   - [Contents](#contents)
   - [Ansible](#ansible)
   - [API](#api)
+  - [Books](#books)
   - [Notifications and Alerts](#notifications-and-alerts)
   - [SNMP](#snmp)
   - [Templates](#templates)
@@ -46,6 +47,7 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
 - [official-docs](https://www.zabbix.com/documentation/current/en/manual/api) - Zabbix API documentation. 🔴
 - [testing-with-postman](https://mpolinowski.github.io/docs/DevOps/Zabbix/2022-01-13--zabbix-api-testing/2022-01-13) - Testing the Zabbix API with Postman.
 - [hnakamur/go-zabbix](https://github.com/hnakamur/go-zabbix) - A minimal Zabbix API client for Go.
+- [py-zabbix](https://github.com/adubkov/py-zabbix) - Zabbix module for Python
 
 **[⬆ back to top](#contents)**
 
@@ -56,6 +58,7 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
 - [zabbix-6-cookbook](https://www.packtpub.com/product/zabbix-6-it-infrastructure-monitoring-cookbook-second-edition/9781803246918) -  Zabbix 6 IT Infrastructure Monitoring Cookbook - Second Edition.
 - [zabbix-7-cookbook](https://www.packtpub.com/product/zabbix-7-it-infrastructure-monitoring-cookbook-third-edition/9781801078320) - Zabbix 7 IT Infrastructure Monitoring Cookbook - Third Edition.
 
+**[⬆ back to top](#contents)**
 
 ## Notifications and Alerts
 
