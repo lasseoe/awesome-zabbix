@@ -49,6 +49,14 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
 
 **[⬆ back to top](#contents)**
 
+## Books
+
+> Books, documents, whitepapers etc.
+
+- [zabbix-6-cookbook](https://www.packtpub.com/product/zabbix-6-it-infrastructure-monitoring-cookbook-second-edition/9781803246918) -  Zabbix 6 IT Infrastructure Monitoring Cookbook - Second Edition.
+- [zabbix-7-cookbook](https://www.packtpub.com/product/zabbix-7-it-infrastructure-monitoring-cookbook-third-edition/9781801078320) - Zabbix 7 IT Infrastructure Monitoring Cookbook - Third Edition.
+
+
 ## Notifications and Alerts
 
 > You would not want to stare at the triggers or events list all the time. It would be much better to receive notification if something significant (such as a problem) has happened. Also, when problems occur, you would like to see that all the people concerned are informed.
@@ -64,7 +72,7 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
 
 - [official-docs](https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/snmp) - Zabbix SNMP documentation. 🔴
 - [snmpwalk2zabbix](https://github.com/Sean-Bradley/SNMPWALK2ZABBIX) - Create a Zabbix template from an snmpwalk response.
-- [mib2zabbix](https://github.com/zabbix-tools/mib2zabbix) - Perl script that generates a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.
+- [mib2zabbix](https://github.com/sputtene/mib2zabbix) - Perl script that generates a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file ([docs](https://kb.offbyone.be/projects/public-knowledge-base/wiki/Convert_a_MIB_file_to_a_Zabbix_template)).
 
 **[⬆ back to top](#contents)**
 
