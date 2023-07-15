@@ -24,12 +24,13 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
   - [Notifications and Alerts](#notifications-and-alerts)
   - [SNMP](#snmp)
   - [Templates](#templates)
+  - [Tools](#tools)
   - [Triggers](#triggers)
   - [Visualization](#visualization)
     - [External](#external-visualization)
     - [Maps](#maps)
     - [Modules](#modules)
-    - [Widgets](#widgets)
+    - [Widgets](#widgets)
   - [Zabbix Protocols](#zabbix-protocols)
 
 **[⬆ back to top](#contents)**
@@ -110,6 +111,14 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
 - [zabbix-template-apt-upgrade-monitoring](https://github.com/AkuLink1/zabbix-template-apt-upgrade-monitoring) - Monitor available package upgrades on Debian & Ubuntu and other apt-based hosts.
 - [zabbix-template-yum-upgrade-monitoring](https://github.com/AkuLink1/zabbix-template-yum-update-monitoring) - Monitor available package upgrades on RHEL, CentOS and other yum-based hosts.
 - [zabbix_zfs-on-linux](https://github.com/Cosium/zabbix_zfs-on-linux) - Monitor ZFS on Linux with Zabbix.
+
+**[⬆ back to top](#contents)**
+
+## Tools
+
+> Tools in all shapes and varieties
+
+- [zabbixctl](https://github.com/lasseoe/zabbixctl) - The most effective way for operating Zabbix servers on the command line.
 
 **[⬆ back to top](#contents)**
 
