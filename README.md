@@ -119,6 +119,7 @@ A red ball 🔴 indicates that the resource is written by, maintained or otherwi
 > Tools in all shapes and varieties
 
 - [zabbixctl](https://github.com/lasseoe/zabbixctl) - The most effective way for operating Zabbix servers on the command line.
+- [zabbix-cli](https://github.com/unioslo/zabbix-cli) - Command-line interface for Zabbix
 
 **[⬆ back to top](#contents)**
 
